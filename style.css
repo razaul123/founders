@@ -24,4 +24,8 @@ display:flex;
   background:#333;
   color:#fff;
   padding:1.5rem 8rem;
+  position: fixed;
+  top:0;
+  z-index:1;
+  border-bottom:3px solid #3693ff;
 }
