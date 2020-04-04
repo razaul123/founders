@@ -2,7 +2,7 @@
 <DOCTYPE html>
 <html lang="eng">
 <head>
-  <meta  charset=""UTF-8>
+  <meta  charset="UTF-8">
   <meta name="viewport" content="device-width, initial-scale=1.0">
   <title>My website</title>
   <script src="https://kit.fontawesome.com/f7aa48c21e.js" crossorigin="anonymous"></script>
