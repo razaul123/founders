@@ -9,7 +9,8 @@
   <link rel="stylesheet" href="style.css">
   </head>
   <body id="home">
-    <nav id="navbar">
+   <!---Navbar---> 
+   <nav id="navbar">
       <h2><a href="#home"><span class="text-primary">Razaul Akbar</span>Shakur</a></h2> 
       <ul>
         <li><a href="#home">HOME</a></li>
@@ -27,5 +28,14 @@
         <li><a href="https://github.com/razaul123"><i class="fab fa-github"></i></a></li>
    </ul>
    </nav>
-  </body>
- </html>
+  <!---showcase area--->
+    <header id="showcase">
+      <div class="showcase-content">
+      <div class="container">
+        <h1>Inspring Software Developer<br><span class="text-primary">For your company</span></h1>
+        <a href="#objective" class="btn">GET TO KNOW ME</a>
+   </div>
+   </div>
+   </header>  
+ </body>
+</html>
