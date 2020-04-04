@@ -2,7 +2,7 @@
 <DOCTYPE html>
 <html lang="eng">
 <head>
-  <meta  charset="UTF-8">
+  <meta charset="UTF-8">
   <meta name="viewport" content="device-width, initial-scale=1.0">
   <title>My website</title>
   <script src="https://kit.fontawesome.com/f7aa48c21e.js" crossorigin="anonymous"></script>
@@ -25,7 +25,6 @@
         <li><a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin-in"></i></a></li>
         <li><a href="https://www.youtube.com/channel/UC_cqEiwMn03US8l1oKZrIow?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
         <li><a href="https://github.com/razaul123"><i class="fab fa-github"></i></a></li>
-      
    </ul>
    </nav>
   </body>
