@@ -22,9 +22,9 @@
         <li><a href="#personal-development">PERSONAL DEVELOPMENT</a></li>
         <li><a href="#volunteer-experience">VOLUNTEER EXPERIENCE</a></li>
         <li><a href="#contact">CONTACT</a></li>
-        <li><a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin-in"></a></li>
-        <li><a href="https://www.youtube.com/channel/UC_cqEiwMn03US8l1oKZrIow?view_as=subscriber"><i class="fab fa-youtube"></a></li>
-        <li><a href="https://github.com/razaul123"><i class="fab fa-github"></a></li>
+        <li><a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin-in"></i></a></li>
+        <li><a href="https://www.youtube.com/channel/UC_cqEiwMn03US8l1oKZrIow?view_as=subscriber"><i class="fab fa-youtube"></i></a></li>
+        <li><a href="https://github.com/razaul123"><i class="fab fa-github"></i></a></li>
    </ul>
    </nav>
   </body>
