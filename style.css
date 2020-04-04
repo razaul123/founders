@@ -29,3 +29,20 @@ display:flex;
   z-index:1;
   border-bottom:3px solid #3693ff;
 }
+.navbar url{
+display:flex;
+  align-items:center;
+  list-style:none;
+}
+.navbar h2 a{
+color:#fff;
+  text-decoration:none;
+}
+.navbar li a{
+text-decoration:none;
+  color: #fff;
+  padding:1rem;
+  font-size:1.3rem;
+  margin:0 0.5rem;
+  border-radius:5px;
+}
