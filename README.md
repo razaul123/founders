@@ -17,7 +17,7 @@
   </div>
    <div class="navbar">
      <ul>
-       <li><a href="">Home</a></li>
+       <li><a href="" class="active">Home</a></li>
        <li><a href="">Objective</a></li>
        <li><a href="">Thirst for Knowledge</a></li>
        <li><a href="">Interests</a></li>
