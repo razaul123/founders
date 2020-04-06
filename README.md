@@ -11,6 +11,7 @@
  <!--- Start header--->
   <header>
     <div class="container">
+     <div class="row">
   <div class="brand-name">
     <a href="" class="logo">Razaul Akbar Shakur</a>
   </div>
@@ -28,6 +29,7 @@
        <li><a href="">Contact</a></li>
    </ul> 
    </div>
+      </div>
    </div>
   </header>
  <!---end Header--->
