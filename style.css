@@ -18,11 +18,27 @@ header{
   left:0px;
   right:0px;
 }
+header .row{
+justify-content: space-between;
+}
 header .brand-name{
 background-color: #1E90FF;
 }
 header .navbar{
 background-color: #FF6347;
+}
+header .navbar ul{
+list-style:none;
+  padding:0;
+  margin:0;
+}
+header .navbar ul li{
+display:inline-block;
+  margin-left:35px;
+}
+header .navbar ul li a{
+font-size:15px;
+  text-decoration:none;
 }
 .home{
 min-height:100vh;
