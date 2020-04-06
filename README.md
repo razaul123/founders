@@ -31,5 +31,13 @@
    </div>
   </header>
  <!---end Header--->
+    
+ <!---start home--->
+<section class="home">
+  <div class="container">
+    
+  </div>
+</section>
+<!---end home--->
  </body>
 </html>
