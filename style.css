@@ -5,6 +5,11 @@ margin:0;
   box-sizing:border-box;
   font-family: 'Poppins', sans-serif;
 }
+.cotainer{
+max-width:1140px;
+  background-color:#00008B;
+  margin:auto;
+}
 header{
 background-color:#DC143C;
   position: absolute;
