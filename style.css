@@ -5,13 +5,15 @@ margin:0;
   box-sizing:border-box;
   font-family: 'Poppins', sans-serif;
 }
-.cotainer{
+.container{
 max-width:1140px;
-  background-color:#00008B;
   margin:auto;
 }
+.row{
+display:flex;
+  flex-wrap:wrap;
+}
 header{
-background-color:#DC143C;
   position: absolute;
   left:0px;
   right:0px;
