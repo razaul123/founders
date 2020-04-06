@@ -28,7 +28,7 @@ header .brand-name a{
 text-decoration: none;
   font-size:22px;
   font-weight:600;
-  color:#FFFFFF;
+  color:#000000;
   text-transform:uppercase;
 }
 
@@ -45,7 +45,7 @@ header .navbar ul li a{
 font-size:15px;
   text-decoration:none;
   line-height: 72px;
-  color: #FFFFFF;
+  color: #000000;
   font-weight:600;
 }
 header .navbar{
