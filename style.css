@@ -5,6 +5,12 @@ margin:0;
   box-sizing:border-box;
   font-family: 'Poppins', sans-serif;
 }
+header{
+background-color:#DC143C;
+  position: absolute;
+  left:0px;
+  right:0px;
+}
 .home{
 min-height:100vh;
 background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQEUbZXRJO4Vsw/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=LV4XAwH58u-fnT3UXgOfCRWVNN0kqekcNIqMjfmtFdU");
