@@ -17,16 +17,21 @@ header{
   position: absolute;
   left:0px;
   right:0px;
+  border-bottom: 1px solid #423940;
+  padding:0px 15px;
 }
 header .row{
 justify-content: space-between;
+  align-items: center;
 }
-header .brand-name{
-background-color: #1E90FF;
+header .brand-name a{
+text-decoration: none;
+  font-size:22px;
+  font-weight:600;
+  color:#FFFFFF;
+  text-transform:uppercase;
 }
-header .navbar{
-background-color: #FF6347;
-}
+
 header .navbar ul{
 list-style:none;
   padding:0;
@@ -39,7 +44,14 @@ display:inline-block;
 header .navbar ul li a{
 font-size:15px;
   text-decoration:none;
+  line-height: 72px;
+  color: #FFFFFF;
+  font-weight:600;
 }
+header .navbar{
+
+}
+
 .home{
 min-height:100vh;
 background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQEUbZXRJO4Vsw/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=LV4XAwH58u-fnT3UXgOfCRWVNN0kqekcNIqMjfmtFdU");
