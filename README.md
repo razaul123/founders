@@ -64,7 +64,7 @@
   <div class="about-content">
   <div class="row">
   <div class="img">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Cartoon_Man_Approving_His_New_Computer.svg" alt="about-me">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDidDOqpyQ2ndoLnUOXRGcGTV93Chm8aSNDdOaMXplAhnrQEi9&usqp=CAU" alt="about-me">
   </div>  
   </div>
   <div class="text">
