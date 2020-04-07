@@ -13,6 +13,7 @@ max-width:1140px;
 display:flex;
   flex-wrap:wrap;
 }
+/*header*/
 header{
   position: absolute;
   left:0px;
@@ -73,6 +74,7 @@ header .navbar ul li a.active:before{
 width:100%;
   left:0;
 }
+/*home*/
  .home{
 min-height:100vh;
 background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQEUbZXRJO4Vsw/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=LV4XAwH58u-fnT3UXgOfCRWVNN0kqekcNIqMjfmtFdU");
@@ -137,4 +139,36 @@ border-radius:4px;
 .home .home-content .block .cv-btn a:hover{
 background-color:#000000;
   color:#0000FF;
+}
+/*objective*/
+.objective-me{
+padding:100px 15px;
+}
+.objective-me .section-title{ 
+  flex:0 0 100%;
+  max-width:100%;
+}
+.objective-me .section-title h1{
+  display:inline-block;
+  font-size:35px;
+  text-transform:uppercase;
+  font-weight:700px;
+  color:#000000;
+  margin:0;
+  position: relative;
+}
+.objective-me .section-title h1:before{
+content:'';
+  left:0;
+  position:absolute;
+  height:2px;
+  right:30px;
+  background-color:#FFD700;
+  bottom:0px;
+}
+.objective-me .section-title p.small{
+  display:block;
+  font-size:14px;
+  color:#808080;
+  font-weight:400;
 }
