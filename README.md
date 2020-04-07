@@ -57,7 +57,7 @@
     <div class="row">
       <div class="section-title">
         <h1>My objective & thirst for knowledge</h1>
-        <p class="small">Information of my objective</p>
+        <p class="small text-uppercase">Information of my objective</p>
    </div> 
    </div>
   </div>
