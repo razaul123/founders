@@ -24,8 +24,6 @@
        <li><a href="">Employment</a></li>
        <li><a href="">Academia</a></li>
        <li><a href="">Soft skills</a></li>
-       <li><a href="">Personal Development</a></li>
-       <li><a href="">Volunteer Experience</a></li>
        <li><a href="">Contact</a></li>
    </ul> 
    </div>
