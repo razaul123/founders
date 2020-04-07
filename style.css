@@ -176,6 +176,20 @@ text-transform:uppercase!important;
   font-weight:400;
   left-spacing:2px;
 }
-.objective-me about-content{
-background-color:#B22222;
+.objective-me .about-content{
+  
+}
+.objective-me .about-content .img{
+flex:0 0 33.33%;
+  min-width:33.33%;
+}
+.objective-me .about-content .img img{
+width:100%;
+  display:block;
+}
+.objective-me .about-content .text{
+background-color:#1E90FF;
+  flex:0 0 66.66%;
+  min-width:66.66%;
+  padding-left:30px;
 }
