@@ -19,11 +19,11 @@
      <ul>
        <li><a href="" class="active">Home</a></li>
        <li><a href="">Objective</a></li>
-       <li><a href="">Thirst for Knowledge</a></li>
        <li><a href="">Interests</a></li>
        <li><a href="">Employment</a></li>
        <li><a href="">Academia</a></li>
        <li><a href="">Soft skills</a></li>
+       <li><a href="">Personal Development</a></li>
        <li><a href="">Contact</a></li>
    </ul> 
    </div>
