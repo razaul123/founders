@@ -60,6 +60,14 @@
         <p class="small text-uppercase">Information of my objective</p>
    </div> 
    </div>
+  <div class="row">
+  <div class="about-content">
+    
+  </div>
+  <div class="text">
+  <p>The long term objective is to make a difference in my community through the creation of innovative social projects using software development and by applying collaboration and connectivity. Motivated for a change in career path to become a software engineer. Developing coding skills at an accelerated pace.</p>
+  </div>
+  </div>
   </div>
 </section>
 <!---end objecive--->
