@@ -19,6 +19,7 @@ header{
   right:0px;
   border-bottom: 1px solid #423940;
   padding:0px 15px;
+  z-index:10;
 }
 header .row{
 justify-content: space-between;
@@ -61,7 +62,7 @@ content:'';
 width:100%;
   position:absolute;
   left:0px;
-  top:100%;
+  botoom:-1px;
 }
 .home{
 min-height:100vh;
