@@ -184,6 +184,8 @@ flex:0 0 33.33%;
 .objective-me .about-content .img img{
 width:100%;
   display:block;
+  -webkit-transform:rotateY(180deg);
+  transform:rotateY(180deg);
 }
 .objective-me .about-content .text{
   flex:0 0 66.66%;
