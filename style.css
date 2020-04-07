@@ -192,10 +192,17 @@ width:100%;
   padding-left:30px;
 }
 .objective-me .about-content .text h4{
-
-}
-.objective-me .about-content .text h6{
 font-size:25px;
   font-weight: 600;
-  margin: 0 0 10px;
+  margin: 0 0 5px;
+  color:#000000;
+}
+.objective-me .about-content .text h6{
+font-size:18px;
+  font-weight: 500;
+  margin: 0 0 15px;
+  color:#000000;
+}
+.objective-me .about-content .text h6 span{
+color:#febd01;
 }
