@@ -70,6 +70,41 @@ background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQEUbZXRJO4Vs
 background-size: cover;
 background-position: center;
 }
-.home .row{
-background-color:#CD5C5C;
+.home .full-screen{
+  min-height:100vh;
+}
+.home .home-content{
+  flex: 0 0 100%;
+  max-width:100%;
+  display:flex;
+  flex-wrap:wrap;
+  align-items:center;
+}
+.home .home-content .block{
+  flex:0 0 75%;
+  max-width:75%;
+}
+.home .home-content .block h6{
+color:#000000;
+  font-size:18px;
+  font-weight:500;
+  margin:0;
+  padding:0;
+  line-height:1.2;
+}
+.home .home-content .block h1{
+color:#000000;
+  font-size:70px;
+  font-weight:600;
+margin:0 0 10px;
+  padding:0;
+  line-height:1.2;
+}
+.home .home-content .block h3{
+color:#000000;
+  font-size:25px;
+  font-weight:500;
+  margin:0;
+  padding:0;
+  line-height:1.2;
 }
