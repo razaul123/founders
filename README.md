@@ -37,7 +37,7 @@
  <!---start home--->
 <section class="home">
   <div class="container">
- <div class="row">
+ <div class="row full-screen">
  <div class="home-content">
  <div class="block">
    <h6>Hello, My name is</h6>
