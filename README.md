@@ -63,9 +63,10 @@
   <div class="row">
   <div class="about-content">
   <div class="row">
+    
   <div class="img">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDidDOqpyQ2ndoLnUOXRGcGTV93Chm8aSNDdOaMXplAhnrQEi9&usqp=CAU" alt="about-me">
-  </div>  
+  </div>
+  
   </div>
   <div class="text">
   <p>The long term objective is to make a difference in my community through the creation of innovative social projects using software development and by applying collaboration and connectivity. Motivated for a change in career path to become a software engineer. Developing coding skills at an accelerated pace.</p>
