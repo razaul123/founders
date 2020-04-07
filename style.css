@@ -54,21 +54,31 @@ font-size:15px;
 header .navbar{
 
 }
-header .navbar ul li a.active::before{
+header .navbar ul li a::before{
 content:'';
   height:3px;
   background-color:#ffffff;
   display:block;
-width:100%;
+width:0%;
   position:absolute;
-  left:0px;
+  right:0px;
   botoom:-1px;
+  transition:all .5s ease;
 }
-.home{
+header .navbar ul li a:hover::before{
+width:100%;
+  left:0;
+}
+header .navbar ul li a.active:before{
+width:100%;
+  left:0;
+}
+ .home{
 min-height:100vh;
 background-image: url("https://media-exp1.licdn.com/dms/image/C5603AQEUbZXRJO4Vsw/profile-displayphoto-shrink_200_200/0?e=1591833600&v=beta&t=LV4XAwH58u-fnT3UXgOfCRWVNN0kqekcNIqMjfmtFdU");
 background-size: cover;
 background-position: center;
+  padding:15px;
 }
 .home .full-screen{
   min-height:100vh;
@@ -83,6 +93,9 @@ background-position: center;
 .home .home-content .block{
   flex:0 0 75%;
   max-width:75%;
+  padding-left:35px;
+  border-left: 5px solid #000000;
+  margin-top:50px;
 }
 .home .home-content .block h6{
 color:#000000;
@@ -90,15 +103,13 @@ color:#000000;
   font-weight:500;
   margin:0;
   padding:0;
-  line-height:1.2;
 }
 .home .home-content .block h1{
 color:#000000;
   font-size:70px;
   font-weight:600;
-margin:0 0 10px;
+margin:0;
   padding:0;
-  line-height:1.2;
 }
 .home .home-content .block h3{
 color:#000000;
@@ -106,5 +117,24 @@ color:#000000;
   font-weight:500;
   margin:0;
   padding:0;
-  line-height:1.2;
+}
+.home .home-content .block .cv-btn{
+padding-top:20px;
+}
+.home .home-content .block .cv-btn a{
+border-radius:4px;
+  color:#000000;
+  border:1px solid #000000;
+  padding:12px 25px;
+  text-decoration:none;
+  display: inline-block;
+  font-size:14px;
+  text-transform:uppercase;
+  font-weight:600;
+  transition: all .5s ease;
+  background-color:transparent;
+}
+.home .home-content .block .cv-btn a:hover{
+background-color:#000000;
+  color:#0000FF;
 }
