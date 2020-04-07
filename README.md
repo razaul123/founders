@@ -62,6 +62,7 @@
    </div>
   <div class="row">
   <div class="about-content">
+  <div class="row">
   <div class="img">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Cartoon_Man_Approving_His_New_Computer.svg" alt="about-me">
   </div>  
@@ -69,6 +70,7 @@
   <div class="text">
   <p>The long term objective is to make a difference in my community through the creation of innovative social projects using software development and by applying collaboration and connectivity. Motivated for a change in career path to become a software engineer. Developing coding skills at an accelerated pace.</p>
   </div>
+    </div>
   </div>
   </div>
 </section>
