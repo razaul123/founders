@@ -37,7 +37,18 @@
  <!---start home--->
 <section class="home">
   <div class="container">
-    
+ <div class="row">
+ <div class="home-content">
+ <div class="block">
+   <h6>Hello, My name is</h6>
+   <h1>RAZAUL AKBAR SHAKUR</h1>
+   <h3>Inspiring Software Programmer</h3> 
+   <div class="cv-btn">
+     <a href="">Download CV</a>
+   </div>
+ </div>  
+ </div>
+ </div>
   </div>
 </section>
 <!---end home--->
