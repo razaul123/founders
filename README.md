@@ -75,6 +75,7 @@
     <p>Identifying that technology has a huge impact on our current lives, thus I have decided to take a new direction into technology, particularly programming. Since we are an increasingly technologically reliant society, means coding is now an essential skill for a human being. 
 I want to be able to make a difference in the community e.g. application or website development aiding local businesses to thrive. Otherwise, be part of huge social projects to make a difference in the world. For example how can we solve the ever growing demands on the NHS due to increasing population and complex comorbidities. Currently Babylon ltd is in the process of using artificial intelligence to contribute in solving this issue. </p>
     <p>The idea of being part of a larger group of highly functioning programmers for development of new and exciting software significantly plays to my natural aptitude for working effectively with others. Coordinating with various coding minds allows for different perspectives on a project thus generating unique and cutting edge software.</p>
+  <p>Below is a slideshow showing the type of industry that uses coding as example.</p> 
   </div>
     </div>
 <!---links--->
