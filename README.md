@@ -6,6 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>My website</title>
   <link rel="stylesheet" href="style.css">
+  <script src="https://kit.fontawesome.com/f7aa48c21e.js" crossorigin="anonymous"></script>
   </head>
   <body>
  <!--- Start header--->
