@@ -79,9 +79,9 @@ I want to be able to make a difference in the community e.g. application or webs
     </div>
 <!---links--->
 <div class="social-links">
-  <a href="linkedin"><i class="fab fa-linkedin"></i></a>
-  <a href="youtube"><i class="fab fa-youtube"></i></a>
-  <a href="github"><i class="fab fa-github-square"></i></a>
+  <a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin"></i></a>
+  <a href="https://www.youtube.com/channel/UC_cqEiwMn03US8l1oKZrIow?view_as=subscriber"><i class="fab fa-youtube"></i></a>
+  <a href="https://github.com/razaul123"><i class="fab fa-github-square"></i></a>
 </div>
   </div>
   </div>
