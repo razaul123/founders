@@ -76,6 +76,9 @@ I want to be able to make a difference in the community e.g. application or webs
     <p>The idea of being part of a larger group of highly functioning programmers for development of new and exciting software significantly plays to my natural aptitude for working effectively with others. Coordinating with various coding minds allows for different perspectives on a project thus generating unique and cutting edge software.</p>
   </div>
     </div>
+<!---links--->
+<div class="social-links">
+</div>
   </div>
   </div>
 </section>
