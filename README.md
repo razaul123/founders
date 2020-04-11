@@ -78,6 +78,9 @@ I want to be able to make a difference in the community e.g. application or webs
     </div>
 <!---links--->
 <div class="social-links">
+  <a href="linkedin"><i class="fab fa-linkedin"></i></a>
+  <a href="youtube"><i class="fab fa-youtube"></i></a>
+  <a href="github"><i class="fab fa-github-square"></i></a>
 </div>
   </div>
   </div>
