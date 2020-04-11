@@ -214,7 +214,7 @@ font-size:15px;
   color:#838383;
 }
 .objective-me .about-content .text .social-links{
-background-color: #d5d5d5;
+padding-top:25px;
 }
 .objective-me .about-content .text .social-links a{
 height: 30px;
@@ -222,6 +222,10 @@ height: 30px;
   background-color:#000000;
   border-radius:3px;
   display:inline-block;
+  border:1px solid #000000;
+  line-height:28px;
+  text-align:center;
+  margin:0 1px;
 }
 .objective-me .about-content .text .social-links a .fa{
 color:#ffffff;
