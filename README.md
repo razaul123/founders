@@ -91,7 +91,7 @@ I want to be able to make a difference in the community e.g. application or webs
 <!---soft skills--->
 <section class="soft-skills">
   <div class="container">
-  <div class="row">
+  <div class="row align-items-center">
     <div class="soft-skills-content"> 
     <div class="row">
    <div class="section-title">
@@ -119,6 +119,7 @@ Analysing a task using different perspectives allows for thorough problems solvi
    </div>
  <div class="img">
    <img src="https://careersmart.org.uk/sites/default/files/styles/large/public/2016-12/understanding-skills.jpg?itok=hx40IBKf" alt="skills">
+  <img src="https://image.shutterstock.com/image-vector/vector-illustration-communication-concept-word-260nw-674217205.jpg" alt="communication>"
   </div>  
   </div>  
   </div>
