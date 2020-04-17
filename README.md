@@ -128,5 +128,71 @@ Analysing a task using different perspectives allows for thorough problems solvi
   </div>
 </section>  
 <!---soft skills--->
+<!---start employment--->
+<section class="employment">
+  <div class="container">
+    <div class="row">
+      <div class="section-title">
+        <h1>Employment & Academia</h1>
+        <p class="small text-uppercase">Information of my employment and academia</p>
+   </div> 
+   </div>
+  <div class="row">
+  <div class="about-content">
+  <div class="row">
+  
+  </div>
+  <div class="text">
+  <p>2019 - Present: Walthamstow NINO hub, Walthamstow, East London, E17 3SH
+    Counter Fraud and National Insurance Interviewer
+<ul>
+  <li>Analyzing and assessing identification documents </li>
+  <li>Using complex identification software to identify fraud documents</li>
+  <li>Conduct face-to-face interviews</li>
+<li>Completing government documentations for applicants applying for National insurance accurately </li>
+  <li>Updating department based software ensuring correct information are stored effectively</li>
+  </ul>
+  </p>
+<p>2008-2019: Contributed work to 5 different locations: Finsbury Park, Poplar, City Tower, Hoxton, Balham
+Administrative Officer
+  <ul>
+    <li>Referring and supporting claimants to the correct employment opportunities and/or training</li>
+<li>Ensuring claimants are following the correct procedures for employment application and/or training</li>
+    <li>Performing group presentations for new claimants ensuring they understand the system</li>
+    <li>Answering customer inquiries via telephone and face to face</li>
+<li>Registering cases on department-approved systems whilst searching for case discrepancies, filing important documents with the correct case and issuing them to the correct senior officer</li>
+<li>Managing huge numbers of documents that have been delivered, allocating them to the correct case</li>
+    <li>Implementing government policies and working within company regulations</li>
+    <li>Collecting data then exporting for weekly statistics</li>
+    <li>Using department IT software efficiently to process daily activities</li>
+    </ul>
+    </p>
+<p>2007 - 2008: S. M. Tailors UK Ltd, Unit 5, Bow Exchange, London E3 3QP Administration Assistant
+<ul>
+  <li>Managed store orders, problem solved orders with discrepancies</li>
+  <li>Communicated with colleagues about any new and altered orders</li>
+  <li>Delivered products to store from the alterations department when short-staffed</li>
+  <li>Managed completed invoices for weekly processing</li>
+  <li>Contributed to recovery</li>
+</ul>
+</p>
+<p>2005 - 2006: HMV, Trocadero, 22-23 Shaftesbury Avenue, London, W1D 7EJ
+Retail Assistant
+<ul>
+  <li>Helped customers</li>
+  <li>Answered colleague and customer inquiries</li>
+  <li>Placed orders and pre-orders using the correct systems</li>
+  <li>Solved issues regarding product unavailability</li>
+  <li>Improved display layouts to increase selling</li>
+  <li>Processed product deliveries</li>
+  <li>Cashier management </li>
+  </lu>
+</p>
+  </div>
+    </div>
+    </div>
+</div>
+</section>
+<!---end employment--->
  </body>
 </html>
