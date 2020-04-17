@@ -198,5 +198,29 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 </div>
 </section>
 <!---end employment--->
+<!---Personal development--->
+<section class="personal-development">
+  <div class="container">
+  <div class="row">
+    <div class="personal-development-content"> 
+    <div class="row">
+   <div class="section-title">
+     <h2>Personal Development</h2>
+     <p>Courses Completed</p>
+     <p>City University of London</p> 
+     <p>Dec 2019: Introductory to “C” Languages</p> 
+     <p>Magpie Learning</p>
+     <p>Oct 2019: Keynote Presentation</p>
+       <p>Sep 2019: Analysing and Finalising Data on Excel</p>	
+   </div>
+   </div>  
+    </div>
+    </div>
+  </div>
+  <div class="img">
+  <img src="https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/superacion_personal_mult_1_res/Superacion_Personal_746x419_EN.jpg" alt="personl-development">
+  </div>
+</section>     
+<!---end Personal--->
  </body>
 </html>
