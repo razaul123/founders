@@ -119,7 +119,7 @@ Analysing a task using different perspectives allows for thorough problems solvi
    </div>
  <div class="img">
   <img src="https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2020-01/communication-download-png.png?itok=-rpzvIHR" alt="communication">
-  <img src="https://cdn4.vectorstock.com/i/1000x1000/54/48/business-teamwork-concept-flat-people-characters-vector-21555448.jpg" alt="Teamwork">
+  <img src="https://www.sandler.com/wp-content/uploads/2019/09/Dollarphotoclub_76404227-copy.jpg" alt="Teamwork">
   
   </div>  
   </div>  
