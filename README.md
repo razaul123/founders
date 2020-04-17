@@ -119,7 +119,7 @@ Analysing a task using different perspectives allows for thorough problems solvi
    </div>
  <div class="img">
    <img src="https://careersmart.org.uk/sites/default/files/styles/large/public/2016-12/understanding-skills.jpg?itok=hx40IBKf" alt="skills">
-  <img src="https://image.shutterstock.com/image-vector/vector-illustration-communication-concept-word-260nw-674217205.jpg" alt="communication>"
+  <img src="https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2020-01/communication-download-png.png?itok=-rpzvIHR" alt="communication">
   </div>  
   </div>  
   </div>
