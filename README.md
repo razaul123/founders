@@ -189,8 +189,6 @@ Retail Assistant
   </lu>
 </p>
   </div>
-    </div>
-    </div>
 </div>
 </section>
 <!---end employment--->
