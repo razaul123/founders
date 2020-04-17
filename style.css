@@ -231,3 +231,27 @@ height: 30px;
 color:#ffffff;
   font-size:12px;
 }
+.slideshow{
+width:700px;
+  height:400px;
+  overflow:hidden;
+}
+.middle{
+position: absolute;
+  top:50%;
+    left:50%;
+  transform: translate(-50%,-50%);
+}
+.navigation{
+position:absolute;
+  bottom:20px;
+  left:50%;
+  Transform:translateX(-50%);
+  display: flex;
+}
+.bar{
+width:50px;
+  height:10px;
+  border: 2px solid #000000;
+  margin: 6px;
+}
