@@ -217,9 +217,6 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
     </div>
     </div>
   </div>
-  <div class="img">
-  <img src="https://www.iberdrola.com/wcorp/gc/prod/en_US/comunicacion/superacion_personal_mult_1_res/Superacion_Personal_746x419_EN.jpg" alt="personl-development">
-  </div>
 </section>     
 <!---end Personal--->
  </body>
