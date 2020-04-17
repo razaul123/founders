@@ -188,7 +188,14 @@ Retail Assistant
   <li>Cashier management </li>
   </lu>
 </p>
-
+<p>2003 – 2005: Lambeth College, 45 Clapham Common, Southside, London, SW4 9BL 
+BTEC National Diploma in Applied Science (Laboratory Techniques) 1 Merit & 2 Pass</p>
+<p>2002 - 2003: Lambeth College, 45 Clapham Common, Southside, London, SW4 9BL 
+GCSE English, Mathematics, Double Science, I.T. B–D</p> 
+<p>1995 - 2002: Walworth Academy, Shorncliffe Road, London, SE1 5UJ 
+GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D </p>
+</div>
+</div>
 </section>
 <!---end employment--->
  </body>
