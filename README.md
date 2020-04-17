@@ -88,6 +88,18 @@ I want to be able to make a difference in the community e.g. application or webs
 </div>
 </section>
 <!---end objecive--->
-
+<!---soft skills--->
+<section class="soft-skills">
+  <div class="container">
+  <div class="row">
+    <div class="soft-skills-content"> 
+   </div>
+ <div class="img">
+   <img src="https://careersmart.org.uk/sites/default/files/styles/large/public/2016-12/understanding-skills.jpg?itok=hx40IBKf" alt="skills">
+  </div>  
+  </div>  
+  </div>
+</section>  
+<!---soft skills--->
  </body>
 </html>
