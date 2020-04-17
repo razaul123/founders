@@ -188,8 +188,7 @@ Retail Assistant
   <li>Cashier management </li>
   </lu>
 </p>
-  </div>
-</div>
+
 </section>
 <!---end employment--->
  </body>
