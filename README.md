@@ -93,6 +93,29 @@ I want to be able to make a difference in the community e.g. application or webs
   <div class="container">
   <div class="row">
     <div class="soft-skills-content"> 
+    <div class="row">
+   <div class="section-title">
+     <h1>SOFT SKILLS</h1>
+     <h5>Communication</h5> 
+     <p>Excellence in diplomatic, compassionate and empathetic conversations with difficult clients. Decade of proficient communication with people from different backgrounds and cultures. Able to articulate and express well with colleagues, external bodies and members of the public creating rapport and building healthy working relationships. Efficient in using different resources for dissemination of information e.g. emails, system based screen messages, skype, face to face, written, oral, telephony etc.</p>
+     <h5>Teamwork</h5> 
+     <p>I naturally display strong interpersonal relationships by working with a variety of personalities and attitudes of varied professionals and external bodies to ensure claimants cases have effective outcomes. My colleagues describe me as friendly, caring, and good natured. Therefore, my key attribute is the ability to have positive associations with my colleagues. This is essential in achieving agreed team goals e.g. GDPR implementation in backlog of claimant data. </p>
+     <h5>Independent Working</h5> 
+     <p>Being self-sufficient, self-motivated and self-aware of my personal competencies and workload establishes an innate hardworking nature, thus completing individual tasks adequately. E.g. created protocols for processing applications. I rarely require additional support from team members. I often am the one facilitating the workload of others. </p>
+     <h5>Time Management and Organisation</h5> 
+     <p>Analysing workload then prioritizing activities for daily or weekly targets, organizing documents and workspace using IT software, working under pressure to meet payment deadlines e.g. facilitating payments for a homeless claimant, ensuring claimant interviews are completed within 30 minutes with no discrepancies in documentation, being extra punctual in arriving into the department, if primary goals are achieved then I usually take on the secondary goals earlier, in conclusion extremely time aware and systematic.</p> 	
+     <h5>Attention to detail, problem solving & Flexibility</h5>
+     <p>Identifying discrepancies in customer details, records and documentation ensuring problems do not arise in claimant’s cases.
+Analysing situations, considering different options, leading to decision making to ensure customer query is resolved in the most efficient manner.
+Proactive in facilitating the department to meet deadlines by helping others with their workload, going across to 5 different offices and managing resources efficiently e.g. when there are reduced staff members.</p> 
+     <h5>Loyalty, Patience, Resilience & Creativity</h5>
+     <p>I have been employed as a civil servant for over 10 years.
+I maintain a lot of self-control in multiple different scenarios in order to endure complex problems when they arise. 
+Controlling emotions and feelings when faced with difficult customers and colleagues, leading to resolving components of claimant’s case.	
+Analysing a task using different perspectives allows for thorough problems solving. A non-linear way of approaching a situation generates different options when implementing policies and guidance. </p>
+
+  </div>   
+   </div>  
    </div>
  <div class="img">
    <img src="https://careersmart.org.uk/sites/default/files/styles/large/public/2016-12/understanding-skills.jpg?itok=hx40IBKf" alt="skills">
