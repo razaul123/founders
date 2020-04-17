@@ -231,3 +231,13 @@ height: 30px;
 color:#ffffff;
   font-size:12px;
 }
+/*carousel*/
+.slider{
+overflow:hidden;
+}
+.slider figure{
+position:relative;
+  width:500%;
+  margin:0;
+  left:0;
+}
