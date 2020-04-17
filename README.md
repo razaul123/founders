@@ -186,7 +186,7 @@ Retail Assistant
   <li>Improved display layouts to increase selling</li>
   <li>Processed product deliveries</li>
   <li>Cashier management </li>
-  </lu>
+  </ul>
 </p>
 <p>2003 – 2005: Lambeth College, 45 Clapham Common, Southside, London, SW4 9BL 
 BTEC National Diploma in Applied Science (Laboratory Techniques) 1 Merit & 2 Pass</p>
