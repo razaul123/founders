@@ -120,7 +120,8 @@ Analysing a task using different perspectives allows for thorough problems solvi
  <div class="img">
   <img src="https://cdn.psychologytoday.com/sites/default/files/styles/image-article_inline_full/public/field_blog_entry_teaser_image/2020-01/communication-download-png.png?itok=-rpzvIHR" alt="communication">
   <img src="https://www.sandler.com/wp-content/uploads/2019/09/Dollarphotoclub_76404227-copy.jpg" alt="Teamwork">
-  
+  <img src="https://149349300.v2.pressablecdn.com/wp-content/uploads/2020/01/8_dfe_3534534.png" alt="organisation">
+  <img src="https://thepitcher.org/wp-content/uploads/2017/07/problem-solution.jpg" alt="Problem Solving">
   </div>  
   </div>  
   </div>
