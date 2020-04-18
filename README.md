@@ -20,10 +20,8 @@
      <ul>
        <li><a href="" class="active">Home</a></li>
        <li><a href="">Objective</a></li>
-       <li><a href="">Interests</a></li>
-       <li><a href="">Employment</a></li>
-       <li><a href="">Academia</a></li>
        <li><a href="">Soft skills</a></li>
+       <li><a href="">Employment & Academia</a></li>
        <li><a href="">Personal Development</a></li>
        <li><a href="">Contact</a></li>
    </ul> 
@@ -188,6 +186,7 @@ Retail Assistant
   <li>Cashier management </li>
   </ul>
 </p>
+<h4>Academia</h4>
 <p>2003 – 2005: Lambeth College, 45 Clapham Common, Southside, London, SW4 9BL 
 BTEC National Diploma in Applied Science (Laboratory Techniques) 1 Merit & 2 Pass</p>
 <p>2002 - 2003: Lambeth College, 45 Clapham Common, Southside, London, SW4 9BL 
