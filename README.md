@@ -222,6 +222,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 <!---start interests--->
 <div id="slider">
   <figure>
+    <h2>My Interests</h2>
   <img src="https://blog.rescuetime.com/wp-content/uploads/2019/01/How-to-remember-what-you-read-lead-min-1000x486.jpg" alt="reading">
     <img src="https://i.insider.com/5d600407ad2b475dda646fc4?width=1100&format=jpeg&auto=webp" alt="youtube">
     <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/current_affairs_new_0.png?8dmp2f4HrwVzAaVuMKuF9RJ_HkBmoZGT" alt="current affairs">
