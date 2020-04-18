@@ -222,6 +222,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 <!---start interests--->
 <div class="slide-container">
   <h1>MY INTERESTS</h1>
+  <div class="image-container">
   <img src="https://blog.rescuetime.com/wp-content/uploads/2019/01/How-to-remember-what-you-read-lead-min-1000x486.jpg" alt="reading">
     <img src="https://i.insider.com/5d600407ad2b475dda646fc4?width=1100&format=jpeg&auto=webp" alt="youtube">
     <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/current_affairs_new_0.png?8dmp2f4HrwVzAaVuMKuF9RJ_HkBmoZGT" alt="current affairs">
@@ -229,6 +230,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
     <img src="https://www.verdict.co.uk/wp-content/uploads/2017/09/get-into-comic-books.jpg" alt="comics">
     <img src="https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg" alt="Football">
 <img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2017/08/foodie-apps1.jpg" alt="Foodie"> 
+  </div>
 </div>  
 <!---end interests--->
  </body>
