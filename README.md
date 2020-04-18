@@ -23,6 +23,7 @@
        <li><a href="">Soft skills</a></li>
        <li><a href="">Employment & Academia</a></li>
        <li><a href="">Personal Development</a></li>
+       <li><a href="">Interests</a></li>
        <li><a href="">Contact</a></li>
    </ul> 
    </div>
@@ -218,5 +219,8 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
   </div>
 </section>     
 <!---end Personal--->
+<!---start interests--->
+
+<!---end interests--->
  </body>
 </html>
