@@ -207,11 +207,11 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
    <div class="section-title">
      <h2>Personal Development</h2>
      <p>Courses Completed</p>
-     <p>City University of London</p> 
-     <p>Dec 2019: Introductory to “C” Languages</p> 
-     <p>Magpie Learning</p>
-     <p>Oct 2019: Keynote Presentation</p>
-       <p>Sep 2019: Analysing and Finalising Data on Excel</p>	
+     <p>City University of London: 
+     Dec 2019: Introductory to “C” Languages</p> 
+     <p>Magpie Learning:
+     Oct 2019: Keynote Presentation
+     Sep 2019: Analysing and Finalising Data on Excel</p>
    </div>
    </div>  
     </div>
