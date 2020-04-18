@@ -104,14 +104,14 @@ I want to be able to make a difference in the community e.g. application or webs
      <h5>Time Management and Organisation</h5> 
      <p>Analysing workload then prioritizing activities for daily or weekly targets, organizing documents and workspace using IT software, working under pressure to meet payment deadlines e.g. facilitating payments for a homeless claimant, ensuring claimant interviews are completed within 30 minutes with no discrepancies in documentation, being extra punctual in arriving into the department, if primary goals are achieved then I usually take on the secondary goals earlier, in conclusion extremely time aware and systematic.</p> 	
      <h5>Attention to detail, problem solving & Flexibility</h5>
-     <p>Identifying discrepancies in customer details, records and documentation ensuring problems do not arise in claimant’s cases.
-Analysing situations, considering different options, leading to decision making to ensure customer query is resolved in the most efficient manner.
-Proactive in facilitating the department to meet deadlines by helping others with their workload, going across to 5 different offices and managing resources efficiently e.g. when there are reduced staff members.</p> 
+     <p>Identifying discrepancies in customer details, records and documentation ensuring problems do not arise in claimant’s cases.</p>
+<p>Analysing situations, considering different options, leading to decision making to ensure customer query is resolved in the most efficient manner.</p>
+<p>Proactive in facilitating the department to meet deadlines by helping others with their workload, going across to 5 different offices and managing resources efficiently e.g. when there are reduced staff members.</p> 
      <h5>Loyalty, Patience, Resilience & Creativity</h5>
-     <p>I have been employed as a civil servant for over 10 years.
-I maintain a lot of self-control in multiple different scenarios in order to endure complex problems when they arise. 
-Controlling emotions and feelings when faced with difficult customers and colleagues, leading to resolving components of claimant’s case.	
-Analysing a task using different perspectives allows for thorough problems solving. A non-linear way of approaching a situation generates different options when implementing policies and guidance. </p>
+     <p>I have been employed as a civil servant for over 10 years.</p>
+     <p>I maintain a lot of self-control in multiple different scenarios in order to endure complex problems when they arise.</p> 
+<p>Controlling emotions and feelings when faced with difficult customers and colleagues, leading to resolving components of claimant’s case.</p>	
+<p>Analysing a task using different perspectives allows for thorough problems solving. A non-linear way of approaching a situation generates different options when implementing policies and guidance. </p>
 
   </div>   
    </div>  
