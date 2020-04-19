@@ -218,6 +218,16 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
   </div>
 </section>     
 <!---end Personal--->
-
+<!---contact me--->
+<section class="contact-us">
+<div class="container">
+  <div class="row">
+    <div class="section-title">
+      <h1>GET IN TOUCH</h1>   
+   </div>  
+  </div>  
+</div>  
+</section>
+<!---end contact me--->
  </body>
 </html>
