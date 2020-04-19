@@ -391,9 +391,21 @@ font-size:15px;
   color:#838383;
   margin:0px;
 }
-
+.contact-us .contact-form .space-between{
+fustify-content:space-between;
+}
 .contact-us .contact-form .col-6{
-background-color:#d5d5d5;
-  flex:0 0 calc(50% - 20%);
-  max-width:calc(50% - 20%);
+  flex:0 0 calc(50% - 15%);
+  max-width:calc(50% - 15%);
+}
+.contact-us .contact-form .col-12{
+  flex:0 0 100%;
+  max-width:100%;
+}
+.contact-us .contact-form .form-control{
+height:45px;
+  width:100%;
+  margin-bottom:15px;
+  border:1px solid #ffffff;
+  padding:6px 12px;
 }
