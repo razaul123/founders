@@ -228,7 +228,31 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
   </div> 
  <div class="row">
    <div class="contact-form">
-     
+     <div class="row">
+   <div class="text">
+     <h2>Drop us a line</h2>
+     <p>If you have any enquiries please contact me</p>
+   </div>  
+   </div> 
+  <div class="row">   
+ <div class="col-6">
+   <input type="text" class="form-control" name="" placeholder="NAME">
+ </div> 
+  <div class="col-6">
+   <input type="text" class="form-control" name="" placeholder="EMAIL">
+ </div> 
+ </div>
+  <div class="row">
+<div class="col-12">
+  <textarea class="form-control" placeholder="Your Coment">
+  </textarea>
+ </div>    
+  </div>
+ <div class="row">
+ <div class="button">
+   <a href="">Get in touch</a>
+ </div>  
+ </div>  
    </div>  
  </div>  
 </div>  
