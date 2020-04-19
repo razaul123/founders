@@ -234,7 +234,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
      <p>If you have any enquiries please contact me</p>
    </div>  
    </div> 
-  <div class="row">   
+  <div class="row space-between">   
  <div class="col-6">
    <input type="text" class="form-control" name="" placeholder="NAME">
  </div> 
