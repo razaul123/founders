@@ -223,6 +223,13 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 <div class="slide-container">
   <h1>MY INTERESTS</h1>
   <div class="image-container">
+    <span id="slider-image-1"></span>
+    <span id="slider-image-2"></span>
+    <span id="slider-image-3"></span>
+    <span id="slider-image-4"></span>
+    <span id="slider-image-5"></span>
+    <span id="slider-image-6"></span>
+    <span id="slider-image-7"></span>
   <img src="https://blog.rescuetime.com/wp-content/uploads/2019/01/How-to-remember-what-you-read-lead-min-1000x486.jpg" alt="reading" class="slider-image">
     <img src="https://i.insider.com/5d600407ad2b475dda646fc4?width=1100&format=jpeg&auto=webp" alt="youtube" class="slider-image">
     <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/current_affairs_new_0.png?8dmp2f4HrwVzAaVuMKuF9RJ_HkBmoZGT" alt="current affairs" class="slider-image">
@@ -232,7 +239,13 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 <img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2017/08/foodie-apps1.jpg" alt="Foodie" class="slider-image"> 
   </div>
   <div class="button-container">
-    
+    <a href="#slider-image-1" class="slider-button"></a> 
+    <a href="#slider-image-2" class="slider-button"></a> 
+    <a href="#slider-image-3" class="slider-button"></a> 
+    <a href="#slider-image-4" class="slider-button"></a> 
+    <a href="#slider-image-5" class="slider-button"></a> 
+    <a href="#slider-image-6" class="slider-button"></a> 
+    <a href="#slider-image-7" class="slider-button"></a> 
   </div>  
 </div>  
 <!---end interests--->
