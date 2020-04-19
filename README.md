@@ -244,8 +244,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
  </div>
   <div class="row">
 <div class="col-12">
-  <textarea class="form-control" placeholder="Your Coment">
-  </textarea>
+  <textarea class="form-control" placeholder="Your Comment"></textarea>
  </div>    
   </div>
  <div class="row">
