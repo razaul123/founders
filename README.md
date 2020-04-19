@@ -18,12 +18,12 @@
   </div>
    <div class="navbar">
      <ul>
-       <li><a href="" class="active">Home</a></li>
-       <li><a href="">Objective</a></li>
-       <li><a href="">Soft skills</a></li>
-       <li><a href="">Employment & Academia</a></li>
-       <li><a href="">Personal Development</a></li>
-       <li><a href="">Contact</a></li>
+       <li><a href="#home" class="active">Home</a></li>
+       <li><a href="#objective">Objective</a></li>
+       <li><a href="#soft-skills">Soft skills</a></li>
+       <li><a href="#employment">Employment & Academia</a></li>
+       <li><a href="#personal">Personal Development</a></li>
+       <li><a href="#contact">Contact</a></li>
    </ul> 
    </div>
       </div>
@@ -32,7 +32,7 @@
  <!---end Header--->
     
  <!---start home--->
-<section class="home">
+<section class="home" id="home">
   <div class="container">
  <div class="row full-screen">
  <div class="home-content">
@@ -51,7 +51,7 @@
 <!---end home--->
 
 <!---start objective--->
-<section class="objective-me">
+<section class="objective-me" id="objective">
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
@@ -87,7 +87,7 @@ I want to be able to make a difference in the community e.g. application or webs
 </section>
 <!---end objecive--->
 <!---soft skills--->
-<section class="soft-skills">
+<section class="soft-skills" id="soft-skills">
   <div class="container">
   <div class="row align-items-center">
     <div class="soft-skills-content"> 
@@ -127,7 +127,7 @@ I want to be able to make a difference in the community e.g. application or webs
 </section>  
 <!---soft skills--->
 <!---start employment--->
-<section class="employment">
+<section class="employment" id="employment">
   <div class="container">
     <div class="row">
       <div class="section-title text-center">
@@ -198,7 +198,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 </section>
 <!---end employment--->
 <!---Personal development--->
-<section class="personal-development">
+<section class="personal-development" id="personal">
   <div class="container">
   <div class="row">
     <div class="personal-development-content"> 
@@ -219,7 +219,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 </section>     
 <!---end Personal--->
 <!---contact me--->
-<section class="contact-us">
+<section class="contact-us" id="contact">
 <div class="container">
   <div class="row">
     <div class="section-title text-center">
