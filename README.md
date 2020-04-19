@@ -54,7 +54,7 @@
 <section class="objective-me">
   <div class="container">
     <div class="row">
-      <div class="section-title">
+      <div class="section-title text-center">
         <h1>My objective & thirst for knowledge</h1>
         <p class="small text-uppercase">Information of my objective & thirst for knowledge</p>
    </div> 
@@ -92,7 +92,7 @@ I want to be able to make a difference in the community e.g. application or webs
   <div class="row align-items-center">
     <div class="soft-skills-content"> 
     <div class="row">
-   <div class="section-title">
+   <div class="section-title text-center">
      <h1>SOFT SKILLS</h1>
      <h5>Communication</h5> 
      <p>Excellence in diplomatic, compassionate and empathetic conversations with difficult clients. Decade of proficient communication with people from different backgrounds and cultures. Able to articulate and express well with colleagues, external bodies and members of the public creating rapport and building healthy working relationships. Efficient in using different resources for dissemination of information e.g. emails, system based screen messages, skype, face to face, written, oral, telephony etc.</p>
@@ -130,7 +130,7 @@ I want to be able to make a difference in the community e.g. application or webs
 <section class="employment">
   <div class="container">
     <div class="row">
-      <div class="section-title">
+      <div class="section-title text-center">
         <h1>Employment & Academia</h1>
         <p class="small text-uppercase">Information of my employment and academia</p>
    </div> 
@@ -222,10 +222,15 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 <section class="contact-us">
 <div class="container">
   <div class="row">
-    <div class="section-title">
+    <div class="section-title text-center">
       <h1>GET IN TOUCH</h1>   
    </div>  
-  </div>  
+  </div> 
+ <div class="row">
+   <div class="contact-form">
+     
+   </div>  
+ </div>  
 </div>  
 </section>
 <!---end contact me--->
