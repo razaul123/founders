@@ -262,7 +262,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
   <div class="container">
     <div class="row">
   <div class="logo">
-    R.A.Shakur
+    R.A.SHAKUR
    </div> 
    <div class="social">
    <a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin"></i></a>
