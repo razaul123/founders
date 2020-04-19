@@ -23,7 +23,6 @@
        <li><a href="">Soft skills</a></li>
        <li><a href="">Employment & Academia</a></li>
        <li><a href="">Personal Development</a></li>
-       <li><a href="">Interests</a></li>
        <li><a href="">Contact</a></li>
    </ul> 
    </div>
