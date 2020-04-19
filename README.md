@@ -219,35 +219,6 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
   </div>
 </section>     
 <!---end Personal--->
-<!---start interests--->
-<div class="slide-container">
-  <h1>MY INTERESTS</h1>
-  <div class="image-container">
-    <span id="slider-image-1"></span>
-    <span id="slider-image-2"></span>
-    <span id="slider-image-3"></span>
-    <span id="slider-image-4"></span>
-    <span id="slider-image-5"></span>
-    <span id="slider-image-6"></span>
-    <span id="slider-image-7"></span>
-  <img src="https://blog.rescuetime.com/wp-content/uploads/2019/01/How-to-remember-what-you-read-lead-min-1000x486.jpg" alt="reading" class="slider-image">
-    <img src="https://i.insider.com/5d600407ad2b475dda646fc4?width=1100&format=jpeg&auto=webp" alt="youtube" class="slider-image">
-    <img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/201909/current_affairs_new_0.png?8dmp2f4HrwVzAaVuMKuF9RJ_HkBmoZGT" alt="current affairs" class="slider-image">
-    <img src="https://s3.amazonaws.com/kajabi-storefronts-production/products/50680/images/IwHFO5zaQeCt5p9diS5Y_religious-symbols_2.png" alt="religion" class="slider-image">
-    <img src="https://www.verdict.co.uk/wp-content/uploads/2017/09/get-into-comic-books.jpg" alt="comics" class="slider-image">
-    <img src="https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg" alt="Football" class="slider-image">
-<img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2017/08/foodie-apps1.jpg" alt="Foodie" class="slider-image"> 
-  </div>
-  <div class="button-container">
-    <a href="#slider-image-1" class="slider-button"></a> 
-    <a href="#slider-image-2" class="slider-button"></a> 
-    <a href="#slider-image-3" class="slider-button"></a> 
-    <a href="#slider-image-4" class="slider-button"></a> 
-    <a href="#slider-image-5" class="slider-button"></a> 
-    <a href="#slider-image-6" class="slider-button"></a> 
-    <a href="#slider-image-7" class="slider-button"></a> 
-  </div>  
-</div>  
-<!---end interests--->
+
  </body>
 </html>
