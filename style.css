@@ -365,3 +365,35 @@ padding:100px 15px;
 .contact-us .section-title h1:before{
 left:30%;
 }
+.contact-us .contact-form{
+background-color:#ffffff;
+  flex:0 0 100%;
+  max-width:100%;
+  padding:40px;
+  border:1px solid #eeeeee;
+}
+.contact-us .contact-form .text{
+  flex:0 0 100%;
+  max-width:100%;
+  padding-bottom:20px;
+}
+.contact-us .contact-form .text h2{
+font-size:26px;
+  font-weight:600;
+  color:#000000;
+  margin:0;
+  padding:0;
+}
+.contact-us .contact-form .text p{
+font-size:15px;
+  font-weight:400;
+  line-height:24px;
+  color:#838383;
+  margin:0px;
+}
+
+.contact-us .contact-form .col-6{
+background-color:#d5d5d5;
+  flex:0 0 calc(50% - 20%);
+  max-width:calc(50% - 20%);
+}
