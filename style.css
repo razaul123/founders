@@ -406,6 +406,15 @@ fustify-content:space-between;
 height:45px;
   width:100%;
   margin-bottom:15px;
-  border:1px solid #000000;
+  border:3px solid #000000;
   padding:6px 12px;
+  font-size:14px;
+  font-weight:400;
+  font-family: sans-serif;
+}
+.contact-us .contact-form textarea .form-control{
+height:140px;
+}
+.contact-us .contact-form .form-control::placeholder{
+color:#838383;
 }
