@@ -231,6 +231,9 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
     <img src="https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg" alt="Football" class="slider-image">
 <img src="https://articles-images.sftcdn.net/wp-content/uploads/sites/3/2017/08/foodie-apps1.jpg" alt="Foodie" class="slider-image"> 
   </div>
+  <div class="button-container">
+    
+  </div>  
 </div>  
 <!---end interests--->
  </body>
