@@ -249,7 +249,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
  </div>    
   </div>
  <div class="row">
- <div class="button">
+ <div class="button text-center">
    <a href="">Get in touch</a>
  </div>  
  </div>  
