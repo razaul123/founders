@@ -257,5 +257,21 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
 </div>  
 </section>
 <!---end contact me--->
+<!---start footer--->
+<footer>
+  <div class="container">
+    <div class="row">
+  <div class="logo">
+    R.A.Shakur
+   </div> 
+   <div class="social">
+   <a href="https://www.linkedin.com/in/razaul-shakur-102569195/"><i class="fab fa-linkedin"></i></a>
+  <a href="https://www.youtube.com/channel/UC_cqEiwMn03US8l1oKZrIow?view_as=subscriber"><i class="fab fa-youtube"></i></a>
+  <a href="https://github.com/razaul123"><i class="fab fa-github-square"></i></a>  
+   </div> 
+  </div>  
+  </div>  
+</footer>  
+<!---end footer--->
  </body>
 </html>
