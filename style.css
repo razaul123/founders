@@ -143,6 +143,7 @@ background-color:#000000;
 /*objective*/
 .objective-me{
 padding:100px 15px;
+  background-color:#f5f8fd;
 }
 .objective-me .section-title{ 
   flex:0 0 100%;
