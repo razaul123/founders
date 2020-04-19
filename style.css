@@ -387,7 +387,7 @@ left:30%;
 background-color:#ffffff;
   flex:0 0 100%;
   max-width:100%;
-  padding:40px;
+  padding:50px;
   border:1px solid #eeeeee;
 }
 .contact-us .contact-form .text{
@@ -443,7 +443,6 @@ color:#838383;
 .contact-us .contact-form .button a{
 border-radius:4px;
   color:#ffffff;
-  border:1px solid #ffffff;
   padding:12px 25px;
   display:inline-block;
   font-size:14px;
@@ -451,6 +450,7 @@ border-radius:4px;
   font-weight:600;
   transition: all .5s ease;
   background-color:#febd01;
+  box-shadow: 0px 0px 15px #d5d5d5;
 }
 .contact-us .contact-form .button a:hover{
 background-color:#000000;
