@@ -134,11 +134,11 @@ border-radius:4px;
   text-transform:uppercase;
   font-weight:600;
   transition: all .5s ease;
-  background-color:transparent;
+  background-color:#febd01;
 }
 .home .home-content .block .cv-btn a:hover{
 background-color:#000000;
-  color:#0000FF;
+  color:#fffff;
 }
 /*objective*/
 .objective-me{
@@ -435,6 +435,11 @@ height:140px;
 }
 .contact-us .contact-form .form-control::placeholder{
 color:#838383;
+}
+.contact-us .contact-form .button{
+background-color:#d5d5d5;
+  flex:0 0 100%;
+  max-width:100%;
 }
 .contact-us .contact-form .button a{
 border-radius:4px;
