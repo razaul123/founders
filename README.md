@@ -204,7 +204,7 @@ GCSE English, Double Science, Mathematics, Geography, Art, Bengali, Spanish B-D 
     <div class="personal-development-content"> 
     <div class="row">
    <div class="section-title">
-     <h2>Personal Development</h2>
+     <h1>Personal Development</h1>
      <p>Courses Completed</p>
      <p>City University of London: 
      Dec 2019: Introductory to “C” Languages</p> 
